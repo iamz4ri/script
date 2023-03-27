@@ -5,7 +5,7 @@ lmao.
 
 Obfuscator by jmes#1396 (309536563161989120).
 
-If you want to take my script on another script-webs, please write the Author name (@iamz4ri) / Credit: iamz4ri
+If you want to take my script to another script-webs, please write the Author name (@iamz4ri) / Credit: iamz4ri
 <br>
 <br>[**Facebook**](https://fb.com/nguyndungg)</br>
 [**Twitch**](https://twitch.tv/iamz4ri)</br>
