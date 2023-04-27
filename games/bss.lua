@@ -866,7 +866,7 @@ local function fetchBuffTable(stats)
     return stTab
 end
 
-local Config = { WindowName = "Kocmoc v"..temptable.version.." Remastered", Color = Color3.fromRGB(164, 84, 255), Keybind = Enum.KeyCode.Semicolon}
+local Config = { WindowName = "BKI v"..temptable.version.." Remastered", Color = Color3.fromRGB(164, 84, 255), Keybind = Enum.KeyCode.Semicolon}
 local Window = library:CreateWindow(Config, game:GetService("CoreGui"))
 
 local hometab = Window:CreateTab("Home")
@@ -896,7 +896,7 @@ end
 writefile("PrevServers2.txt",s)
 --end temp patch
 else
-    warn("Error loading Kocmoc Premium")
+    warn("Error loading BKI Premium")
 end
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/iamz4ri/script/main/functions/premium/loadperks.lua"))()("WindowLoad",Window)
 
