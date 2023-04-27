@@ -866,7 +866,7 @@ local function fetchBuffTable(stats)
     return stTab
 end
 
-local Config = { WindowName = "Kocmoc v"..temptable.version.." Remastered", Color = Color3.fromRGB(164, 84, 255), Keybind = Enum.KeyCode.Semicolon}
+local Config = { WindowName = "Curia v"..temptable.version.., Color = Color3.fromRGB(164, 84, 255), Keybind = Enum.KeyCode.Semicolon}
 local Window = library:CreateWindow(Config, game:GetService("CoreGui"))
 
 local hometab = Window:CreateTab("Home")
@@ -896,7 +896,7 @@ end
 writefile("PrevServers2.txt",s)
 --end temp patch
 else
-    warn("Error loading Kocmoc Premium")
+    warn("Error loading Curia Premium")
 end
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/iamz4ri/script/main/functions/premium/loadperks.lua"))()("WindowLoad",Window)
 
@@ -915,8 +915,7 @@ information:CreateLabel(" - Not Safe Function")
 information:CreateLabel("⚙ - Configurable Function")
 information:CreateLabel("📜 - May be exploit specific")
 information:CreateLabel("Place version: "..game.PlaceVersion)
-information:CreateLabel("Script by iamz4ri and Boxking776")
-information:CreateLabel("Originally by weuz_ and mrdevl")
+information:CreateLabel("Script by iamz4ri")
 local gainedhoneylabel = information:CreateLabel("Gained Honey: 0")
 information:CreateButton("Discord Invite", function() setclipboard("https://discord.gg/jjsploit") end)
 information:CreateButton("Donation", function() setclipboard("https://www.paypal.com/paypalme/GHubPay") end)
