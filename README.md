@@ -5,7 +5,7 @@ lmao.
 
 If you want to take my script to another script-webs, please write the Author name (@iamz4ri) / Credit: iamz4ri
 <br>
-<br>[**Facebook**](https://fb.com/nguyndungg)</br>
+<br>[**Facebook**](https://fb.com/sleepydunq)</br>
 [**Twitch**](https://twitch.tv/iamz4ri)</br>
 <sub> *Nam ki bu dai, cam on. - Z* </sub>
 
@@ -15,8 +15,13 @@ If you want to take my script to another script-webs, please write the Author na
   </a>
 
 ## Special thanks to:
-+ Boxking776
 
-+ hocsinhgioitoan
+Rocky CDE
 
-+ Senseii
+Andree Right Hand
+
+CCMK
+
+betekar
+
+Low G
